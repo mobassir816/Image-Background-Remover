@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color:#773baf;
     margin: 0;
     padding: 0;
     margin-top: 10px;
@@ -17,7 +17,7 @@ body {
 
 .header {
     text-align: center;
-    background-color: #007bff;
+    background-color: #ae78d5;
     color: #fff;
     padding: 10px 0;
     border-radius: 8px;
@@ -46,7 +46,7 @@ body {
 
 .main-content .upload-section input::file-selector-button {
     font-weight: bold;
-    color: dodgerblue;
+    color: ae78d5;
     padding: 0.5em;
     border: thin solid grey;
     border-radius: 3px;
@@ -57,21 +57,20 @@ body {
     width: 100px;
     height: 35px;
     color: #f2f2f2;
-    background-color: #007bff;
-}
-
+    background-color: #ae78d5;
+    }
 .buttons .upload-btn:hover{
-    background-color: #005ab9;
+    background-color:#8a30cb;
 }
 
 .buttons .download-btn{
     width: 100px;
     height: 35px;
     color: #f2f2f2;
-    background-color: #007bff;
+    background-color: #ae78d5;
 }
 
 .buttons .download-btn:hover{
-    background-color: #005ab9;
+    background-color: #8a30cb;
 }
 
